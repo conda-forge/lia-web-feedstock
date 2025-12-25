@@ -2,7 +2,7 @@
 schema_version: 1
 
 context:
-  version: 0.2.3
+  version: "0.3.1"
 
 package:
   name: lia-web
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/lia-web/lia_web-${{ version }}.tar.gz
-  sha256: ccc9d24cdc200806ea96a20b22fb68f4759e6becdb901bd36024df7921e848d7
+  sha256: 7f551269eddd729f1437e9341ad21622a849eb0c0975d9232ccbbaadbdc74c06
 
 build:
   number: 0
