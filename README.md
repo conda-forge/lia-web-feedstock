@@ -3,11 +3,13 @@ About lia-web-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lia-web-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/patrick91/lia
+Home: https://pypi.org/project/lia-web
 
 Package license: MIT
 
 Summary: A library for working with web frameworks
+
+Development: https://github.com/patrick91/lia
 
 Current build status
 ====================
