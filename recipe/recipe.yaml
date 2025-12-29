@@ -14,7 +14,7 @@ source:
     sha256: 7f551269eddd729f1437e9341ad21622a849eb0c0975d9232ccbbaadbdc74c06
   # last-known-good license
   - url: https://raw.githubusercontent.com/patrick91/lia/refs/tags/0.2.3/LICENSE
-    sha256: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
+    sha256: 6bef4db73118d0c62c24bae130a47b1d0b2a99f4e3631fc0d4cc3a7705deaf5f
 
 build:
   number: 0
